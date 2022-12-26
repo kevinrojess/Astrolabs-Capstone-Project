@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import GridExample from '../components/GridExample';
 import ProductCard from '../components/ProductCard';
 
 
