@@ -5,7 +5,6 @@ import HomeScreen from './pages/HomeScreen';
 import DonateScreen from './pages/DonateScreen';
 import InvolvedScreen from './pages/InvolvedScreen';
 import RegistrationScreen from './pages/RegistrationScreen';
-import LoginScreen from './pages/LoginScreen';
 import ProductListScreen from './pages/ProductListScreen';
 import ProductScreen from './pages/ProductScreen';
 import LayoutRoute from './components/LayoutRoute';
