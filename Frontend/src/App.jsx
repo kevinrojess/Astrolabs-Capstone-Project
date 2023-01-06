@@ -30,7 +30,7 @@ function App() {
         <GuestLayoutRoute path="/login" exact={true} component={StyledLoginScreen} />
         <LayoutRoute path="/cart" exact={true} component={CartScreen} />
         <LayoutRoute path="/product" exact={true} component={ProductScreen} />
-        <LayoutRoute path="/products/list" exact={true} component={ProductListScreen} />
+        <LayoutRoute path="/list" exact={true} component={ProductListScreen} />
         <LayoutRoute path="/buynow" exact={true} component={OrderConfirmed} />
       </Switch>
     </BrowserRouter>
